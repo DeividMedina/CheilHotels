@@ -1,0 +1,35 @@
+{
+    "hotelesCheil":
+    [
+        {
+        "id":"HT001",
+        "nombre":"Dann Carlton",
+        "calificacion":8.5,
+        "pais":"Colombia",
+        "ciudad":"Bogotá"
+        },
+        {
+        "id":"HT002",
+        "nombre":"Movic Las Lomas",
+        "calificacion":9.5,
+        "pais":"Colombia",
+        "ciudad":"Rio Negro"
+        },
+        {
+        "id":"HT003",
+        "nombre":"Las Camelias",
+        "calificacion":10,
+        "pais":"Colombia",
+        "ciudad":"Montenegro"
+        },
+        {
+            "id":"HT004",
+            "nombre":"GLH Capital",
+            "calificacion":8.9,
+            "pais":"Colombia",
+            "ciudad":"Bogotá"
+            }
+
+
+    ]
+}
